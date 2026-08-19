@@ -44,7 +44,7 @@ No framework or backend is required.
 
 ## 📁 Project Files
 
-
+```text
 Project/
 │
 ├── index.html
