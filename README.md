@@ -1,27 +1,58 @@
-# BUET Khuzdar — Modern Static Landing Page
+# 🎓 BUET Khuzdar — Modern Landing Page
 
-**Student:** Hamid Saleh  
-**Program:** MSCS  
+### Balochistan University of Engineering and Technology, Khuzdar
+
+A modern, responsive and mobile-friendly static landing page created for **BUET Khuzdar** as an **MSCS academic project**.
+
+---
+
+## 👨‍💻 Student
+
+**Name:** Hamid Saleh  
 **Roll No:** 26MSCS02  
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — responsive modern UI
-- `script.js` — mobile menu, scroll progress, reveal animation and navigation
+---
 
-## Run
-Open `index.html` directly in a browser. No server or database is required.
+## ✨ Features
 
-## Notes
-- Static front-end only: HTML, CSS and JavaScript.
-- Responsive/mobile-first layout with a bottom mobile navigation bar.
-- No backend, framework or build process.
-- The official BUET Khuzdar website is linked for institutional information.
-- Replace the CSS-built BUET mark with the university's official logo asset if your instructor requires the exact official logo.
+- 🎨 Modern & premium UI
+- 📱 Fully responsive design
+- 🏫 BUET Khuzdar information
+- 📍 Khuzdar location/map section
+- 🎓 Academic programs showcase
+- 👨‍🎓 Student profile section
+- 🖼️ University images & logo
+- ⚡ Smooth scrolling
+- ✨ Scroll animations
+- 📊 Scroll progress indicator
+- 🍔 Mobile navigation menu
+- 🔝 Back-to-top button
+- 🔗 Official university website link
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Google Fonts**
+
+No framework or backend is required.
+
+---
+
+## 📁 Project Files
 
 
-## Added visual assets
-- `buetk-logo.png` — BUET Khuzdar emblem sourced from a public BUETK logo listing; verify/replace with the university-provided original if required by your department.
-- `campus-1.jpg` — BUET Khuzdar campus view.
-- `campus-2.jpg` — Khuzdar campus/walkway view.
-- `campus-3.jpg` — BUET Khuzdar group photo.
+Project/
+│
+├── index.html
+├── style.css
+├── script.js
+├── package.json
+├── README.md
+├──images/
+├── buet-logo.png
+├── campus-1.jpg
+└── ...
